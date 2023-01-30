@@ -154,9 +154,10 @@ h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
+```
 
 ## OUTPUT:
-![OUTPUT(./out.png)]
+![OUTPUT](./out.png)
 
 ## HTML VALIDATOR:
 ![HTML VALIDATOR](./valid.png)
